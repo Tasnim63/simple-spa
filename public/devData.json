@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "sakib",
+        "partner": "mz1"
+    },
+    {
+        "id": "2",
+        "name": "santa",
+        "partner": "mz2"
+    },
+    {
+        "id": "3",
+        "name": "himo",
+        "partner": "mz3"
+    },
+    {
+        "id": "4",
+        "name": "rimi",
+        "partner": "mz4"
+    },
+    {
+        "id": "5",
+        "name": "galib",
+        "partner": "mz5"
+    },
+    {
+        "id": "6",
+        "name": "galib",
+        "partner": "mz6"
+    }
+]
